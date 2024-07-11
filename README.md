@@ -21,7 +21,7 @@ A journal article (â€œA General-Purpose Broad Taxonomy for Sound Classificationâ
 
 ## Audio data
 The original files downloaded from Freesound are converted to a standardized format of uncompressed 44.1 kHz 16-bit mono audio files, with any sounds longer than 30 seconds cropped to that duration.
-The dataset can be downloaded as a single .zip file (~7.4G):
+The audio files of the dataset can be downloaded as a single .zip file (~7.4G):
 
 **[Download BSD10k dataset](https://drive.google.com/file/d/1jyEwyY7TqevOqwMzM1kmWf7gbhrT4Yj0/view)**
 
@@ -29,12 +29,12 @@ The dataset can be downloaded as a single .zip file (~7.4G):
 The BSD10K as a whole is released under [CC-BY](https://creativecommons.org/licenses/by/4.0/). 
 We note, though, that each audio file is released under its own Creative Commons (CC) license, as defined by the uploader in Freesound. 
 Some sounds require attribution to their original authors, while others forbid commercial reuse. 
-For commercial purposes, sounds with CC-BY-NC licenses should be excluded.
+If the dataset is used in a commercial setting, the sounds with CC-BY-NC licenses should be excluded.
 
-The sounds have the following licenses: 
+This is the distributin of sounds per license: 
 - CC0: 3,187
 - CC-BY: 5,534
 - CC-BY-NC: 1,192
 - CC Sampling+: 396
 
-The individual licenses of the sounds can be further accessed at the [metadata file](BSD10k_metadata.csv). 
+Links to the *license deeds* for each sound can be further accessed through the [metadata file](BSD10k_metadata.csv). 
