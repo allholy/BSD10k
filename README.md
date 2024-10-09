@@ -10,7 +10,7 @@ The accompanying [metadata file](BSD10k_metadata.csv) contains information about
 The sounds are unequally distributed in the classes.
 
 ## Taxonomy
-The Broad Sound Taxonomy (BST) organizes sounds into a two-level hierarchical structure with 5 top-level and 23 second-level classes. 
+The **Broad Sound Taxonomy (BST)** organizes sounds into a two-level hierarchical structure with 5 top-level and 23 second-level classes. 
 The taxonomy is designed to classify any kind of sounds and to be easy to use, broad and comprehensive.
 The taxonomy can be implemented for the organization and initial filtering on various platforms, such as Freesound, as well as in personal sound libraries.
 Information about the definition of the taxonomy classes is located in the [taxonomy file](taxonomy_metadata.csv).
@@ -24,6 +24,14 @@ The original files downloaded from Freesound are converted to a standardized for
 The audio files of the dataset can be downloaded as a single .zip file (~7.4G):
 
 **[Download BSD10k dataset](https://drive.google.com/file/d/1jyEwyY7TqevOqwMzM1kmWf7gbhrT4Yj0/view)**
+
+## Citing us 
+
+<a href="https://arxiv.org/pdf/2410.00980"><img src="https://img.shields.io/badge/download-PDF-green.svg" alt="View paper in PDF format" title="View paper in PDF format" align="right" /></a>
+
+If you use this dataset, please cite our paper:
+
+> Anastasopoulou, P., Torrey, J., Serra, X., & Font, F. (2024). Heterogeneous sound classification with the Broad Sound Taxonomy and Dataset. *arXiv*. (https://arxiv.org/abs/2410.00980)
 
 ## License
 The BSD10K as a whole is released under [CC-BY](https://creativecommons.org/licenses/by/4.0/). 
